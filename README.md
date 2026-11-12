@@ -1,6 +1,6 @@
 # vphone-linux
 
-Run [vphone-cli](https://github.com/Lakr233/vphone-cli)'s virtual iPhone on a **Linux x86_64 host**, or on Windows 11 under WSL2 ([docs/WSL.md](docs/WSL.md)).
+Run [vphone-cli](https://github.com/Lakr233/vphone-cli)'s virtual iPhone on a **Linux x86_64 host**, or on Windows 11 under WSL2 ([docs/WSL.md](docs/WSL.md)) — Windows 10 (21H2+) works the same way, see [docs/WSL-WINDOWS10.md](docs/WSL-WINDOWS10.md).
 
 <p align="center">
   <img src="docs/screenshots/lock-screen.png" width="200" alt="Lock screen">

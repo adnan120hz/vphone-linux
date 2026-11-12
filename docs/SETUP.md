@@ -44,7 +44,7 @@ out (building by hand, display scale, services, the pinned commits) is in [ADVAN
 | RAM | 16 GB | 32 GB |
 | GPU | A Vulkan GPU | NVIDIA (the only vendor tested so far) |
 | Disk | 100 GB free, btrfs or XFS | SSD, 150 GB free |
-| OS | Fedora, Debian 13+, Ubuntu 25.04+, Arch/Omarchy, or Windows 11 with WSL2 | Fedora (the most tested) |
+| OS | Fedora, Debian 13+, Ubuntu 25.04+, Arch/Omarchy, or Windows 10 (21H2+) / 11 with WSL2 | Fedora (the most tested) |
 
 - **Root** (sudo) for a few steps while creating the VM.
 - **An internet connection**: about 13 GB of firmware comes from Apple's servers.

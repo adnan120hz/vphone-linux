@@ -4,6 +4,10 @@ vphone-linux runs inside WSL2 on Windows 11 with the same two steps as on a Linu
 (`./setup/setup.sh`, then `./setup/create-vm.sh`). The scripts detect WSL and adapt. This page lists
 what is different and what to set up once.
 
+> On Windows 10 (21H2, build 19044+), the same steps apply with the
+> Store WSL — see [docs/WSL-WINDOWS10.md](WSL-WINDOWS10.md) for the
+> version check and the X-server fallback when WSLg is unavailable.
+
 ## What differs from a Linux PC
 
 | | Linux PC | WSL2 |
